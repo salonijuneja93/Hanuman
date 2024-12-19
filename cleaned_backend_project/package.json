@@ -1,0 +1,14 @@
+
+{
+  "name": "week10-backend-app",
+  "version": "1.0.0",
+  "description": "Backend App for Managing Users",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
